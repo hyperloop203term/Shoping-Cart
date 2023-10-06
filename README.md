@@ -1,2 +1,2 @@
-# Shoping-Cart
+# React-Shopping-Cart
 Created with CodeSandbox
